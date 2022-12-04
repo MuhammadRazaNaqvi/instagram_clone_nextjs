@@ -12,9 +12,9 @@ const RightBar = () => {
           <Avatar />
           <div>
             <Link href="#">
-              <a>Hamza Rizwan</a>
+              <a>Muhammad Raza</a>
             </Link>
-            <span>Butt</span>
+            <span>Naqvi.16</span>
           </div>
           <button>Switch</button>
         </div>
@@ -32,7 +32,7 @@ const RightBar = () => {
           <Avatar size="sm" />
           <div>
             <Link href="#">
-              <a>Ahmad Rizwan</a>
+              <a>Ahmad Sattar</a>
             </Link>
             <span>New to Instagram</span>
           </div>
@@ -42,7 +42,17 @@ const RightBar = () => {
           <Avatar size="sm" />
           <div>
             <Link href="#">
-              <a>Muhammad Abdullah</a>
+              <a>Muhammad Arbaz</a>
+            </Link>
+            <span>In my contacts</span>
+          </div>
+          <button>Follow</button>
+        </div>
+        <div>
+          <Avatar size="sm" />
+          <div>
+            <Link href="#">
+              <a>Ghamees Ul Mohsin</a>
             </Link>
             <span>New to Instagram</span>
           </div>
@@ -52,50 +62,15 @@ const RightBar = () => {
           <Avatar size="sm" />
           <div>
             <Link href="#">
-              <a>Muhammad Asaad</a>
+              <a>Muhammad Raza Naqvi</a>
             </Link>
-            <span>New to Instagram</span>
+            <span>In my contacts</span>
           </div>
           <button>Follow</button>
         </div>
-        <div>
-          <Avatar size="sm" />
-          <div>
-            <Link href="#">
-              <a>Umar Ashraf</a>
-            </Link>
-            <span>New to Instagram</span>
-          </div>
-          <button>Follow</button>
-        </div>
-        <div>
-          <Avatar size="sm" />
-          <div>
-            <Link href="#">
-              <a>Moadib Nasir</a>
-            </Link>
-            <span>New to Instagram</span>
-          </div>
-          <button>Follow</button>
-        </div>
+
       </div>
 
-      <footer>
-        <div className="links">
-          <a>About</a>
-          <a>Help</a>
-          <a>Press</a>
-          <a>API</a>
-          <a>Jobs</a>
-          <a>Privacy</a>
-          <a>Terms</a>
-          <a>Locations</a>
-          <a>Top Accounts</a>
-          <a>Hashtags</a>
-          <a>Language</a>
-        </div>
-        <p className="copyright">© 2021 INSTAGRAM FROM FACEBOOK</p>
-      </footer>
     </StyledRightBar>
   );
 };

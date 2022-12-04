@@ -45,9 +45,8 @@ const Header = () => {
               <span>following</span>
             </li>
           </ul>
-          <p className="name">Hamza Rizwan</p>
-          <p className="description">Web Developer | Documenting my journey</p>
-          {/* <a href="http://mehmetsagir.dev">mehmetsagir.dev</a> */}
+          <p className="name">Muhammad Raza</p>
+          <p className="description">Photography Lover || Computer Scientist || UET Lahore</p>
         </div>
       </div>
       <ul className="links">

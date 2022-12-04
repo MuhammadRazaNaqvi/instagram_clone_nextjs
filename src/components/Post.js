@@ -15,7 +15,7 @@ const Post = () => {
         <div>
           <Avatar size="sm" />
           <Link href="#">
-            <a>Abdullah</a>
+            <a>Muhammad Raza</a>
           </Link>
         </div>
       </div>
@@ -61,23 +61,23 @@ const Post = () => {
       <div className="post-likes">
         <Avatar size="x-sm" />
         <Link href="#">
-          <a> Asaad </a>
+          <a> Ahmad </a>
         </Link>
-        and <button onClick="#"> 145 likes</button>
+        and <button onClick="#"> 45 likes</button>
       </div>
       <div className="description">
         <Link href="#">
-          <a>Umar Ahraf</a>
+          <a>Muhammad Raza</a>
         </Link>{" "}
-        <span> Very beautiful photo.</span>
+        <span> Kashmir Tour.</span>
       </div>
       <div className="comments">
         {/* <div><Link href="#"><a>username</a></Link> <span>Lorem ipsum dolor sit amet.</span></div> */}
       </div>
-      <div className="created-date">3 DAY AGO</div>
+      <div className="created-date">1 Year Ago</div>
       <div className="comment-form">
         <input type="text" placeholder="Add comment..." />
-        <button>Share</button>
+        <button>Add</button>
       </div>
 
     </StyledPost>

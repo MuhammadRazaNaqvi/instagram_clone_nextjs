@@ -10,7 +10,7 @@ const inbox = () => {
       <div className="message-list">
         <div className="message-list-header">
           <Link href="#">
-            <a>Hamza Rizwan</a>
+            <a>Muhammad Raza</a>
           </Link>
           <button>
             <svg fill="#262626" height="24" viewBox="0 0 44 44" width="24">
