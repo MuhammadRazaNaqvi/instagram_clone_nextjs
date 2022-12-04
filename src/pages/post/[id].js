@@ -21,7 +21,7 @@ export default function Home() {
           <div className="header">
             <Avatar size="sm" />
             <Link href="#">
-              <a>Hamza Rizwan</a>
+              <a>Muhammad Raza</a>
             </Link>
             <button>
               <svg fill="#262626" height="16" viewBox="0 0 48 48" width="16">
