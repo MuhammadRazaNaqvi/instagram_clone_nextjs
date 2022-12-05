@@ -17,7 +17,7 @@ const Avatar = ({ size, story = false }) => {
         <img
           width={getSize()}
           height={getSize()}
-          src="https://instagram.flhe7-2.fna.fbcdn.net/v/t51.2885-19/244494852_2040817462736301_6328309389655450356_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.flhe7-2.fna.fbcdn.net&_nc_cat=109&_nc_ohc=rcgYCIotQYcAX_gOsF2&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfCBgWgDNVw8h9kO_EDzAOefIldUHW73x03tiO8coXYM8A&oe=63914B7B&_nc_sid=1527a3.jpg"
+          src="http://commondatastorage.googleapis.com/codeskulptor-demos/riceracer_assets/img/swong.png"
           alt=""
         />
       </StyledAvatar>
