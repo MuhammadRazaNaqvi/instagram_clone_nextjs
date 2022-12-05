@@ -20,7 +20,7 @@ const Post = () => {
         </div>
       </div>
       <div className="post-image img-box" >
-        <img src="C:/Users/razam/Downloads/Bootcamp/InstagramClone-Hamza-Rizwan/public/images/images_items/images=2.jpg" alt="" />
+        <img src="https://images.freeimages.com/images/large-previews/cf8/kamenice-creek-czech-switzerland-czech-republic-1636329.jpg" alt="" />
       </div>
       <div className="post-actions">
         <div>

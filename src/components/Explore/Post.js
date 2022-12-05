@@ -7,7 +7,7 @@ const Post = ({ post }) => {
     <Link href="/post/1">
       <StyledPost>
         <img
-          src={`C:/Users/razam/Downloads/Bootcamp/InstagramClone-Hamza-Rizwan/public/images/images_items/images=${post.id}`}
+          src={`https://www.freeimages.com/photo/ice-winter-frost-ice-floe-cold-icicles-fence-fence-railing-${post.id}`}
           alt="user-image"
         />
         <div>

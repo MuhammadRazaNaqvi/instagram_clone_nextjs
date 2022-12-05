@@ -12,7 +12,7 @@ const Header = () => {
       <div className="user">
         <label className="profile-image">
           <img
-            src="https://pbs.twimg.com/profile_images/1249700364506386433/x3OzFIzW_400x400.png"
+            src="http://commondatastorage.googleapis.com/codeskulptor-demos/riceracer_assets/img/swong.png"
             alt="test"
           />
           <input type="file" />

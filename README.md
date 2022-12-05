@@ -1,5 +1,3 @@
-✨ **Live Demo ->** [Instagram Clone](https://instagram-clone-next.vercel.app/login)
-
 ## Getting Started
 
 Install dependencies:

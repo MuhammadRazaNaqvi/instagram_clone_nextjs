@@ -7,17 +7,17 @@ import Header from "src/components/Profile/Header";
 const username = () => {
   const fakePostData = [
     {
-      id: 1,
+      id: 1636329,
       like: 413,
       comment: 1,
     },
     {
-      id: 2,
+      id: 1636329,
       like: 65,
       comment: 5,
     },
     {
-      id: 3,
+      id: 1636329,
       like: 244,
       comment: 3,
     },
