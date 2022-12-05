@@ -12,12 +12,6 @@ const login = () => {
         <title>Login • Instagram</title>
       </Head>
 
-      <div className="phone">
-        <img
-          src="https://www.instagram.com/static/images/homepage/screenshot1.jpg/d6bf0c928b5a.jpg"
-          alt="image"
-        />
-      </div>
       <div>
         <div className="container">
           <div className="form-header">
